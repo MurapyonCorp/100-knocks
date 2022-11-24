@@ -29,7 +29,7 @@ https://omathin.com/100knock-23-26/
 https://omathin.com/100knock-27-28/
 
 #### Q29
-https://omathin.com/lambda-style/
+https://omathin.com/lambda-style/  
 https://tora3data.com/100knock15-17/
 
 #### Q30～Q33
