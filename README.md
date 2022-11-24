@@ -14,7 +14,7 @@ https://omathin.com/100knock-11-12/
 https://omathin.com/regular-expression/
 
 #### Q16
-https://qiita.com/ProgramWataru/items/42ff579a3cdb4f0ad158
+https://tora3data.com/100knock15-17/
 
 #### Q17～Q20
 https://omathin.com/100knock-17-20/
@@ -24,3 +24,13 @@ https://omathin.com/100knock-21-22/
 
 #### Q23～Q26
 https://omathin.com/100knock-23-26/
+
+#### Q27～Q28
+https://omathin.com/100knock-27-28/
+
+#### Q29
+https://omathin.com/lambda-style/
+https://tora3data.com/100knock15-17/
+
+#### Q30～Q33
+https://omathin.com/100knock-30-33/
