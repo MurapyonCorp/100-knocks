@@ -34,3 +34,6 @@ https://tora3data.com/100knock29-31/
 
 #### Q30～Q33
 https://omathin.com/100knock-30-33/
+
+#### Q34〜Q35
+https://omathin.com/100knock-34-35/
