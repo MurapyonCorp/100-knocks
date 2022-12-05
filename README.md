@@ -40,3 +40,6 @@ https://omathin.com/100knock-34-35/
 
 #### Q36〜Q37
 https://omathin.com/100knock-36-37/
+
+#### Q38〜Q40
+https://omathin.com/100knock-38-40/
