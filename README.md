@@ -4,6 +4,8 @@ https://github.com/noguhiro2002/100knocks-preprocess_ForColab-AzureNotebook/blob
 
 ### 【解答・解説】
 
+https://colab.research.google.com/github/The-Japan-DataScientist-Society/100knocks-preprocess/blob/master/docker/work/answer/ans_preprocess_knock_Python.ipynb#scrollTo=j_5K94FooZkF
+
 #### 問1～問10
 https://omathin.com/100knocks-1-10/
 
